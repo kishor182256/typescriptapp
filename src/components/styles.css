@@ -1,0 +1,12 @@
+.todo_list{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: blueviolet;
+    margin-top: 20px;
+    width: 200px;
+    padding: 10px;
+}
+
+.icons{
+    margin: 10px;
+}
